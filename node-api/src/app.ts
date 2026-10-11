@@ -14,6 +14,7 @@ app.use(
       'http://127.0.0.1:3000',
       'http://localhost:3001',
       'http://127.0.0.1:3001',
+      'https://day-07next-js.onrender.com',
     ],
     credentials: true,
   }),
